@@ -43,5 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+<<<<<<< HEAD
 # Firebase / Google secrets
+=======
+>>>>>>> c39f68b (Add google-services.json to .gitignore)
 android/app/google-services.json
